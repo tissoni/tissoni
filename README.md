@@ -3,7 +3,7 @@
 
 SysAdmin & DevOps engineer with many years of experience building, automating, and maintaining reliable infrastructure. I work with cloud and on-prem environments, CI/CD pipelines, monitoring, and automation to make systems stable and deployments predictable.
 
-In my free time I ride mountain bike and practice stand-up paddle.
+In my free time I ride 🚵‍♂️ mountain bike and practice 🏄‍♂️ stand-up paddle.
 
 ## Skills
 
